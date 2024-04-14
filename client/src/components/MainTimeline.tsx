@@ -7,15 +7,15 @@ import TimelineOppositeContent from '@mui/lab/TimelineOppositeContent';
 import TimelineDot from '@mui/lab/TimelineDot';
 import Typography from '@mui/material/Typography';
 import { RootState } from "../state";
-import { Box, Icon, Button } from "@mui/material";
-import { GiStoneAxe } from 'react-icons/gi';
-import { IconType } from 'react-icons';
+import { Box, Button } from "@mui/material";
+// import { GiStoneAxe } from 'react-icons/gi';
+// import { IconType } from 'react-icons';
 import { themeSettings } from '../theme';
 import { useSelector } from 'react-redux';
 import stone from "../../public/5234916.png";
 import ancient from "../../public/ancient.jpeg";
 import { useNavigate } from 'react-router-dom';
-import React from 'react';
+// import React from 'react';
 
 type Era = {
     name: string,

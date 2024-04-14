@@ -15,7 +15,7 @@ import { useParams } from 'react-router-dom';
 import { useQuery } from 'react-query';
 
 import * as apiClient from "../apiClient"
-import React from 'react';
+// import React from 'react';
 
 
 type Period = {

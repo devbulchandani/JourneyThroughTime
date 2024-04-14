@@ -4,7 +4,7 @@ import { RootState, setMode } from "../state";
 import { DarkMode, LightMode } from "@mui/icons-material";
 import { themeSettings } from "../theme";
 import { useNavigate } from "react-router-dom";
-import React from 'react';
+// import React from 'react';
 
 const Navbar = () => {
     const dispatch = useDispatch();

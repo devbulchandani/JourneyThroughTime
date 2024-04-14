@@ -9,7 +9,7 @@ import { RootState } from "./state/index.js";
 import AddPeriodForm from "./pages/AddPeriodForm.js";
 import Navbar from "./components/Navbar.js";
 import PeriodTimeline from "./components/PeriodTimeline.js";
-import React from 'react';
+// import React from 'react';
 
 
 

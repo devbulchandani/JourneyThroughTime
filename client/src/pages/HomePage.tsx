@@ -1,5 +1,5 @@
 import { Box} from "@mui/material"
-import Navbar from "../components/Navbar";
+// import Navbar from "../components/Navbar";
 import MainTimeline from "../components/MainTimeline";
 
 const HomePage = () => {
