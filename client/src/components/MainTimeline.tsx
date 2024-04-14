@@ -15,6 +15,7 @@ import { useSelector } from 'react-redux';
 import stone from "../../public/5234916.png";
 import ancient from "../../public/ancient.jpeg";
 import { useNavigate } from 'react-router-dom';
+import React from 'react';
 
 type Era = {
     name: string,
